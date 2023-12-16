@@ -1,0 +1,9 @@
+.searchBar{
+   padding: 10px;
+}
+
+.rescard-container{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content:space-between;
+}
